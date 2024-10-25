@@ -1,5 +1,3 @@
-streamlt
+streamlit
 nltk
-chat
-reflections
 base64
